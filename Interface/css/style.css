@@ -1,0 +1,38 @@
+* {
+    max-width: 600px;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+p {
+    text-align: center;
+}
+
+.formAdd {
+    margin-top: 50px;
+    border-bottom: 3px solid darkred;
+}
+
+.addId {
+    margin-right: 20px;
+}
+
+.countryNameAdd {
+    margin-right: 60px;
+}
+
+.submitAdd {
+    margin-left: 270px;
+    margin-bottom: 50px;
+}
+
+.submitAdd:hover {
+    color: darkblue;
+}
+
+
+
